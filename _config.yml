@@ -19,7 +19,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   Official website of Thomas Botton, Product Owner and Business Developer for Mobile Applications, with a startup focus
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://thomasbotton.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: skeud
 
 # Build settings
 markdown: kramdown
