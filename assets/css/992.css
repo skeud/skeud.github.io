@@ -1,0 +1,160 @@
+
+/* DESKTOPS */
+@media screen and (min-width: 992px) {
+	
+	/* HEADER */
+	.site-header {
+		position: relative; z-index: 999;
+		}
+	.site-header .site-title { 
+		margin-left: 0; margin-right: 20px; text-indent: 20px; font-size: 1.4em; 
+		}
+	.primary-navigation .menu-toggle {
+		display: none; padding: 0;
+		}
+	.primary-navigation .nav-menu {
+		display: inline-block;
+		}
+	.social-toggle { 
+		display: none; 
+		}
+	.site-header .social { 
+		display: inline-block; float: right; position: static; width: auto; 
+		}
+	.site-header .social li { 
+		margin: 0 -1px 0 0;
+		}
+	.site-header .social li a { 
+		border-top: none;
+		}
+    
+    /* HEADER SOCIAL */
+    .site-header .social li a { 
+        background: transparent; 
+    }
+    
+    /* HEADER SEARCH */
+    .search-box #search-field {
+        font-size: 42px !important;
+    }
+    
+	/* NAVIGATION */
+	.site-navigation { 
+        display: inline-block; float: left;
+        }
+	.nav-menu { 
+        position: static; display: inline-block; width: auto; background-color: transparent; box-shadow: none; 
+        }
+    .csstransforms .nav-menu { 
+        -ms-transform: translate(0px,0px); 
+        -webkit-transform: translate(0px,0px); 
+        transform: translate(0px,0px); 
+        }
+    .is-header-fixed .nav-menu {
+        left: 0; overflow: visible; position: static; 
+        }
+    .nav-menu ul {
+        display: inline-block; list-style: none; margin: 0; padding: 0; 
+        }
+    .nav-menu ul li {
+        display: inline-block; font-size: 11px; letter-spacing: .05em; line-height: 53px; margin: 0 0.8em; padding: 0; position: relative; 
+        }
+    .nav-menu ul li a {
+        border: 0; display: inline-block; padding: 0; 
+        }
+    .nav-menu ul li, .nav-menu ul li a {
+        color: #333; 
+        }
+    .nav-menu > ul > li > a:hover {
+        text-decoration: underline; 
+        }
+	
+	/* navigation level 2 */
+    .nav-menu ul ul {
+        border: 1px solid #ddd; border-top: 2px solid #555; box-shadow: 0px 0px 10px 1px rgba(0,0,0,.1); display: none; left: -1em; margin: -2px 0 0 0; padding: 0; position: absolute; top: 54px; width: 160px; z-index: 310; 
+        }
+    .nav-menu ul > li:hover > ul {
+        display: block; 
+        }
+    .nav-menu ul ul li {
+        background-color: #fff; display: block; line-height: 24px; margin: 0; max-height: none; padding: 0; text-align: left; 
+        }
+    .nav-menu ul ul li {
+		font-size: 11px; border-bottom: 1px solid #eee; 
+        }
+    .nav-menu ul ul li:first-child {
+        border-top: 0; 
+        }
+    .nav-menu ul ul li a {
+        color: #555; display: block; font-weight: normal; padding: .6em 1.2em; 
+        }
+    .nav-menu ul ul li a:hover, .nav-menu ul ul li a.selected {
+        color: #345; 
+        }
+    .nav-menu ul ul li:last-child {
+        border-bottom: none; 
+        }
+    .nav-menu ul ul:after {
+        border-bottom: 12px solid #555; border-right: 12px solid transparent; bottom: 100%; content: " "; height: 0; left: 1.6em; pointer-events: none; position: absolute; width: 0; 
+        }
+	
+	/* navigation level 3 */
+	.nav-menu ul ul ul { 
+        top: 0; left: 158px; right: auto; padding-left: 0; border: 1px solid #ddd; border-left: 2px solid #777; 
+        }
+	.nav-menu ul ul ul:after { 
+        content: " "; position: absolute; top: 1.2em; right: 100%; left: auto; pointer-events: none; width: 0; height: 0; border:0; border-top: 10px solid #555; border-left: 10px solid transparent; 
+        }
+	
+    /* SHARE BUTTON */
+    .share.sharer-0 { 
+        position: fixed; top: 90px; right: 30px; margin: 0; z-index: 999;
+        }
+	.share.sharer-0 ul {
+		width: 310px !important;
+		}
+    .share.sharer-0 div.social ul li {
+        float: right; width: 50px; height: 50px; line-height: 50px;
+        }
+    div.share.sharer-0 .social.networks-5 {
+        width: auto; 
+        }
+    
+    /* SIDEBAR */
+    .with-sidebar { 
+        width: 65%;
+        }
+    .sidebar { 
+        width: 35%;
+        }
+    
+    /* MASONRY */
+    .masonry .hentry { 
+        width: 33%; 
+        }
+    .masonry .hentry.x2 { 
+        width: 66%; 
+        }
+    .with-sidebar .masonry .hentry { 
+        width: 50%; 
+        }
+    .with-sidebar .masonry .hentry.x2 { 
+        width: 100%; 
+        }
+    
+    /* INTRO */
+    .intro h2 {
+        font-size: 2em;
+    }
+
+    /* ROTATE WORDS */
+    .rotate-words {
+        min-height: 33px;
+    }
+	
+	/* GALLERY SINGLE */
+	.rg-image-wrapper {
+		padding: 40px 60px;
+		}
+		
+}
