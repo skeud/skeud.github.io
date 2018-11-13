@@ -51,21 +51,16 @@
 					<a class="menu-toggle toggle-link"></a>
 					<div class="nav-menu">
 						<ul id="nav" class="menu-custom vs-nav">
-							<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home current-menu-ancestor">
-								<a href="/">HOME</a>
+						{% assign pages = site.pages | sort: "order" %}
+						{% for p in pages %}
+							{% assign current-menu = "" %}
+							{% if p.url == page.url %}
+								{% assign current-menu = " current-menu-item" %}
+							{% endif %}
+							<li class="{{ "menu-item menu-item-type-custom menu-item-object-custom" | append: current-menu }}">
+								<a href="{{ p.url }}">{{ p.menu }}</a>
 							</li>
-							<li class="menu-item menu-item-type-custom menu-item-object-custom">
-								<a href="/about/">ABOUT</a>
-							</li>
-							<li class="menu-item menu-item-type-custom menu-item-object-custom">
-								<a href="/meet/">MEET</a>
-							</li>
-							<li class="menu-item menu-item-type-custom menu-item-object-custom">
-								<a href="/speeches/">SPEECHES</a>
-							</li>
-							<li class="menu-item menu-item-type-custom menu-item-object-custom">
-								<a href="/publications/">PUBLICATIONS</a>
-							</li>
+						{% endfor %}
 						</ul>
 					</div>
 				</nav>
