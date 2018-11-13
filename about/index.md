@@ -1,0 +1,45 @@
+---
+layout: default
+title: About me
+menu: ABOUT
+order: 2
+---
+<div id="main" class="site-main">
+	<div id="primary" class="content-area">
+		<div id="content" class="site-content" role="main">
+			<div class="layout-fixed">
+				<article class="post page type-page status-publish hentry">
+					<header class="entry-header">
+						<h1 class="entry-title">{{ page.title }}</h1>
+					</header>
+					<div class="entry-content">
+						<h2>Work</h2>
+						<p>I have a Master degree in <em>Computer Science</em> from the University of Neuchâtel (Switzerland).</p>
+						<p>I started my career in 2008 as a <em>full stack web developer</em> at DGEM Inc. (Montreal, Canada), where I worked for the wine industry.</p>
+						<p>I then joined <a href="https://www.liip.ch" target="_blank">Liip</a> (Switzerland) in 2009 where I continued in the <em>web and mobile development</em> realms, for various industries like healthcare, NGOs, and banking.<br>
+						There, I was part of the first Liip's Scrum team in which I took the <em>Scrum Master</em> role for two years. I founded and organized the <em>Agile Tour Lausanne</em> for three years in order to exchange best practices with Romandie profesionnals.</p>
+						<p>In 2011, I switched to the <em>Product Owner</em> and <em>Business Developer</em> roles to be closer to <em>business and end user needs</em> (but I still like to code at home on side projects).<br>
+						During this period, I collaborated with watchmaking brands like Jaeger-LeCoultre, sport institutions like UEFA, and e-commerce platforms like QoQa.</p>
+						<p>Since 2016, I solely focus on crafting <em>mobile applications</em> that are useful, respectful, and innovative. I also lead our <em>Lean Startup</em> accompaniment service. I'm particularly proud to have worked with these two startups: <a href="https://www.urban-connect.ch/" target="_blank">Urban Connect</a> and <a href="https://www.onethingless.com/" target="_blank">One.Thing.Less</a>.</p>
+						<p>In parallel, I have the following roles since two years: <em>Lead Business Development</em> for our Lausanne office, <em>Coach for new Product Owners and Business Developers</em>, and <em>Legal Reviewer and Signer</em>.</p>
+
+						<h2>Passions</h2>
+						<p>I'm passionate about <em>Product Management</em>. Particularly the moment when I pinpoint the problem-solution fit after dozens of investigative interviews.
+						I founded the <a href="https://www.meetup.com/Lean-Startup-Breakfast-Romandie/" target="_blank">Lean Startup Romandie Breakfast</a> to exchange with other PMs and entrepreneurs in Western Switzerland.</p>
+						<p>Moreover, I'm a <a href="https://en.wikipedia.org/wiki/Teal_organisation" target="_blank">Teal organization model</a> enthusiast. It's the future of work.<br>
+						I believe it can enable companies to be <em>sustainable on the long term</em>, nourishing their success from the unleashed purpose of each and every — <em>self-organized</em> — employee.<br>
+						I'm lucky to experience this concept for real at Liip, where we run on the Holacracy framework to self-manage our company.</p>
+
+						<h2>Values</h2>
+						<p>I value <em>authenticity</em> as the way to be successful in business on the long run.</p>
+						<p>For everything operational, my motto is: know <em>why</em> you do things, and do them with the <em>least input to generate the maximum output</em> (aka <em>purposeful efficiency</em>).</p>
+						<p>Finally, what drives me everyday is to <em>add value</em> to people via digital tools. No bullshit marketing. No sales for the sake of selling. No useless mobile app that people will trash after the first usage. Only useful and respectful stuff that I'd use myself.</p>
+
+						<h2>Connect</h2>
+						<p>If you think you know about a topic that connect several of the above dots, please send me a message via <a href="https://twitter.com/skeud" target="_blank">Twitter</a>, <a href="https://www.linkedin.com/in/thomas-botton" target="_blank">LinkedIn</a>, or email.</p>
+					</div>
+				</article>
+			</div>
+		</div>
+	</div>
+</div>
