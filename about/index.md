@@ -16,12 +16,12 @@ order: 2
 						<h2>Work</h2>
 						<p>I have a Master degree in <em>Computer Science</em> from the University of Neuchâtel (Switzerland).</p>
 						<p>I started my career in 2008 as a <em>full stack web developer</em> at DGEM Inc. (Montreal, Canada), where I worked for the wine industry.</p>
-						<p>I then joined <a href="https://www.liip.ch" target="_blank">Liip</a> (Switzerland) in 2009 where I continued in the <em>web and mobile development</em> realms, for various industries like healthcare, NGOs, and banking.<br>
-						There, I was part of the first Liip's Scrum team in which I took the <em>Scrum Master</em> role for two years. I founded and organized the <em>Agile Tour Lausanne</em> for three years in order to exchange best practices with Romandie profesionnals.</p>
-						<p>In 2011, I switched to the <em>Product Owner</em> and <em>Business Developer</em> roles to be closer to <em>business and end user needs</em> (but I still like to code at home on side projects).<br>
-						During this period, I collaborated with watchmaking brands like Jaeger-LeCoultre, sport institutions like UEFA, and e-commerce platforms like QoQa.</p>
-						<p>Since 2016, I solely focus on crafting <em>mobile applications</em> that are useful, respectful, and innovative. I also lead our <em>Lean Startup</em> accompaniment service. I'm particularly proud to have worked with these two startups: <a href="https://www.urban-connect.ch/" target="_blank">Urban Connect</a> and <a href="https://www.onethingless.com/" target="_blank">One.Thing.Less</a>.</p>
-						<p>In parallel, I have the following roles since two years: <em>Lead Business Development</em> for our Lausanne office, <em>Coach for new Product Owners and Business Developers</em>, and <em>Legal Reviewer and Signer</em>.</p>
+						<p>I then joined <a href="https://www.liip.ch" target="_blank">Liip</a> (Switzerland) in 2009 where I continued in the <em>web and mobile development</em> realms. My main project was the development of a mobile payment solution which was a real innovation back in 2010, so much that it made it to Steve Jobs' shortlist.<br>
+						The first Liip's Scrum team was assembled for this product. There, I took the <em>Scrum Master</em> role for two years. I founded and organized the <em>Agile Tour Lausanne</em> for three years in order to exchange best practices with Romandie profesionnals.</p>
+						<p>In 2011, I switched to the <em>Product Owner</em> and <em>Business Developer</em> roles to be closer to <em>business and end user needs</em> (I still code at home on side projects to satisfy my geek side).<br>
+						During this period, I collaborated with the <a href="https://www.jaeger-lecoultre.com" target="_blank">Jaeger-LeCoultre</a> watchmaking Maison to revamp their global ecommerce website. Another challenging product was the launch of the mobile app for a famous European football association in 1.5 months targeting millions of users. Lastly, I supported the Product team at <a href="https://www.qoqa.ch/" target="_blank">QoQa</a> to relaunch their websites and mobile apps, both methodologically using the Agile Scrum framework, and technically with a new tech stack based on Ruby on Rails.</p>
+						<p>Since 2016, I focus on crafting <em>mobile applications</em> that are useful, respectful, and innovative. I also lead our <em>Lean Startup</em> accompaniment service to help companies reach product-market fit. I'm particularly proud to have partnered with these two purposeful startups: <a href="https://www.urban-connect.ch/" target="_blank">Urban Connect</a> and <a href="https://www.onethingless.com/" target="_blank">One.Thing.Less</a>.<br>
+						In parallel, I have the following roles: <em>Lead Business Development</em> for our Lausanne office, <em>Coach for new Product Owners and Business Developers</em>, and <em>Legal Reviewer and Signer</em>.</p>
 
 						<h2>Passions</h2>
 						<p>I'm passionate about <em>Product Management</em>. Particularly the moment when I pinpoint the problem-solution fit after dozens of investigative interviews.
@@ -33,7 +33,7 @@ order: 2
 						<h2>Values</h2>
 						<p>I value <em>authenticity</em> as the way to be successful in business on the long run.</p>
 						<p>For everything operational, my motto is: know <em>why</em> you do things, and do them with the <em>least input to generate the maximum output</em> (aka <em>purposeful efficiency</em>).</p>
-						<p>Finally, what drives me everyday is to <em>add value</em> to people via digital tools. No bullshit marketing. No sales for the sake of selling. No useless mobile app that people will trash after the first usage. Only useful and respectful stuff that I'd use myself.</p>
+						<p>Finally, what drives me is to <em>add value</em> to people via digital tools. No bullshit marketing. No sales for the sake of selling. No useless mobile app that people will trash after the first usage. Only useful and respectful stuff that I'd use myself.</p>
 
 						<h2>Connect</h2>
 						<p>If you think you know about a topic that connect several of the above dots, please send me a message via <a href="https://twitter.com/skeud" target="_blank">Twitter</a>, <a href="https://www.linkedin.com/in/thomas-botton" target="_blank">LinkedIn</a>, or email.</p>
