@@ -53,6 +53,9 @@
 						<ul id="nav" class="menu-custom vs-nav">
 						{% assign pages = site.pages | sort: "order" %}
 						{% for p in pages %}
+							{% if p.url == "/assets/css/style.css" or p.url == "/feed.xml" %}
+								{% continue %}
+							{% endif %}
 							{% assign current-menu = "" %}
 							{% if p.url == page.url %}
 								{% assign current-menu = " current-menu-item" %}
