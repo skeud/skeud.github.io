@@ -36,7 +36,7 @@ order: 2
 						<p>Finally, what drives me is to <em>add value</em> to people via digital tools. No bullshit marketing. No sales for the sake of selling. No useless mobile app that people will trash after the first usage. Only useful and respectful stuff that I'd use myself.</p>
 
 						<h2>Connect</h2>
-						<p>If you think you know about a topic that connect several of the above dots, please send me a message via <a href="https://twitter.com/skeud" target="_blank">Twitter</a>, <a href="https://www.linkedin.com/in/thomas-botton" target="_blank">LinkedIn</a>, or email.</p>
+						<p>If you think you know about a topic that connect several of the above dots, please send me a message via <a href="https://twitter.com/skeud" target="_blank">Twitter</a>, <a href="https://www.linkedin.com/in/thomas-botton" target="_blank">LinkedIn</a>, or <a href="mailto:interesting@thomasbotton.com" target="_blank">email</a>.</p>
 					</div>
 				</article>
 			</div>
