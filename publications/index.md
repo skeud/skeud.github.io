@@ -14,6 +14,9 @@ order: 5
 					</header>
 					<div class="entry-content">
 						<ul>
+							<li><a href="hhttps://www.liip.ch/en/blog/mobile-apps-trends-from-conversions-at-google-conference" target="_blank">Mobile Apps Trends from Conversions@Google 2018 conference</a> (31.01.2019, Liip blog)</li>
+							<li><a href="https://www.liip.ch/en/blog/my-learnings-from-product-management-festival-2018-day-2" target="_blank">My Learnings from Product Management Festival 2018 (Day 1)</a> (27.11.2018, Liip blog)</li>
+							<li><a href="https://www.liip.ch/en/blog/my-learnings-from-the-product-management-festival-2018-day-1" target="_blank">My Learnings from Product Management Festival 2018 (Day 2)</a> (14.12.2018, Liip blog)</li>
 							<li><a href="https://www.liip.ch/en/blog/design-thinking-chez-qoqa-un-retour-d-experience" target="_blank">Design Thinking chez QoQa.ch : un retour d’expérience</a> (19.12.2017, Liip blog)</li>
 							<li><a href="https://www.liip.ch/en/blog/l-agilite-chez-qoqa-interview-avec-joann-dobler" target="_blank">L’agilité chez QoQa.ch : interview avec Joann Dobler</a> (12.12.2017, Liip blog)</li>
 							<li><a href="https://www.liip.ch/en/blog/native-or-hybrid-mobile-application-which-one-should-i-choose" target="_blank">Native or hybrid mobile application, which one should I choose?</a> (19.06.2017, Liip blog)</li>
